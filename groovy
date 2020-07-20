@@ -1,4 +1,4 @@
-job(“Pull website code”){
+job(“Job1”){
 description(“Pull the data from github.”)
 scm{
 github(“viveks2612/DevOps-task6”,”master”)
